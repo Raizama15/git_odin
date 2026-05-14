@@ -1,2 +1,3 @@
 Here goes nothing!
 Trying commit message with vscode
+Trying commit message with cmd+cmd
